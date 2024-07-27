@@ -8,7 +8,7 @@ The E-Housing Society Management System is a global web-based application built 
 
 - **Database**: SQL Server 2008
 - **Technology**: Visual Studio ASP.NET with C# Language
-- 
+ <img src="EHousing.png" alt="Website photo" style="width:150px;height:auto;"/> 
 
 ## Features
 
